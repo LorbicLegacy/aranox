@@ -1,0 +1,13 @@
+# Local
+.vscode
+
+# Backend 
+backend/node_modules
+backend/.vscode
+
+# Frontend
+frontend/node_modules
+frontend/.vscode
+
+
+
